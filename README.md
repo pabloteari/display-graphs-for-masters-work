@@ -4,6 +4,16 @@ Algorithm Design analysis works.
 
 In order to create directed graphs and analyze their complexities, among other functions.
 
+<b> Dependency: </b>
+
+> pip install networkx
+
+> pip install matplotlib
+
+> pip install scipy
+-----------
+
+
 Generate something like this: 
 
 ![Graph](https://user-images.githubusercontent.com/5420991/229666295-c32bf239-3bbc-4de1-a9b2-3544c3aee773.png)
